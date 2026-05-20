@@ -7,7 +7,6 @@
 
 ## About me
 - 🎓 passionate about ML & AI
-- 🧠 Currently learning deep learning, neural networks, and ML algorithms
 - 📍 Based in Nepal
 - 📫 Reach me at **utkrisha.kandel@gmail.com**
 
